@@ -1,0 +1,73 @@
+body{
+    background-image: url('https://workspacesolutions.com/blog/wp-content/uploads/2018/12/office-environments.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+form {
+    margin-bottom: 20px;
+}
+.form-group {
+    margin-bottom: 10px;
+}
+.form-group label {
+    display: block;
+    margin-bottom: 5px;
+}
+.form-group input, .form-group select {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+.checkbox-group label {
+    display: inline-block;
+    margin-right: 10px;
+}
+table {
+    background-color: aliceblue;
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+#userForm{
+    margin: auto;
+    padding: 10px;
+    background-color:  rgba(255, 255, 255, 0.5);
+    width: 70%; 
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:  rgba(255, 255, 255, 0.5);
+}
+.food{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    gap: 20px;
+}
+
+button{
+    padding: 10px;
+    background-color: rgb(67, 67, 244);
+    border-radius: 10px;
+    border-style: none;
+}
+#userTableBody{
+    background-color: aliceblue;
+}
